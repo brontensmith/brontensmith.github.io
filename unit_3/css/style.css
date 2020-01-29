@@ -36,3 +36,25 @@ img{
 hr{
 	width: 500px;
 }
+.col-3 {
+    width: 32%;
+    float: left;
+}
+.feature-content {
+    margin: auto;
+    width: 90%;
+    text-align: center;
+    padding-top: 50px;
+}
+.feature-content .col-3 img {
+    width: 100%; 
+    height: 500px;
+}
+.feature-content .col-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 31%;
+}
+h3{
+	font-size: 25px;
+}
