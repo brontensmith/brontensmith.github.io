@@ -21,8 +21,10 @@ h1{
 }
 #mission{
 	text-align: center;
-	font-size: 25px;
+	font-size: 20px;
 	font-family: 'Open Sans Condensed', sans-serif;
+	line-height: 1.5em;
+	margin: 2em;
 }
 #list{
 	text-align: left;
