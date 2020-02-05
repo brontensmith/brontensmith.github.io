@@ -41,6 +41,7 @@ img{
 	border-radius: 4px;
  	padding: 5px;
  	width: 1600px;
+ 	margin: 2em;
 }
 hr{
 	width: 500px;
@@ -66,5 +67,5 @@ hr{
 }
 h3{
 	font-size: 30px;
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Playfair Display', serif;
 }
