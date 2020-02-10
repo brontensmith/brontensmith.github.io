@@ -4,8 +4,8 @@ body{
 	text-align: center;
 	font-size: 50px;
 	color: #4A4A4A;
-	/*background-image: url(../images/dining.jpg);
-	background-repeat: no-repeat;*/
+	background-image: url(../images/dining.jpg);
+	background-repeat: no-repeat;
 }
 h1{
 	text-align: center;
