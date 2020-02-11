@@ -1,24 +1,30 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display&display=swap');
 
-body{
-	text-align: center;
-	font-size: 50px;
-	color: #4A4A4A;
-	background-image: url(../images/dining.jpg);
-	background-repeat: no-repeat;
-}
 h1{
-	text-align: center;
+	text-align: left;
 	font-size: 50px;
 	color: #4A4A4A;
 	font-family: 'Playfair Display', serif;
 }
+
 #slogan{
-	font-size: 25px;
-	text-align: center;
+	font-size: 30px;
+	text-align: left;
 	font-style: italic;
 	font-family: 'Open Sans Condensed', sans-serif;
 }
+
+.introduction{
+	text-align: left;
+	font-size: 50px;
+	color: #4A4A4A;
+	background-image: url(../images/dining.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 50%;
+	height: 100vh;
+}
+
 #mission{
 	text-align: center;
 	font-size: 25px;
@@ -43,26 +49,85 @@ img{
 hr{
 	width: 500px;
 }
-.col-3 {
+.col-3{
     width: 32%;
     float: left;
 }
-.feature-content {
+.column-three {
     margin: auto;
     width: 90%;
     text-align: center;
-    padding-top: 50px;
 }
-.feature-content .col-3 img {
+.column-three .col-3 img {
     width: 100%; 
     height: 500px;
 }
-.feature-content .col-3 {
+.column-three .col-3 {
     padding-left: 10px;
     padding-right: 10px;
     width: 31%;
 }
+.couch{
+	margin:auto;
+	padding-top: 50px;
+	width: 50%;
+	text-align: center;
+
+}
+
+.sale{
+	
+    background-image: url(../images/book.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 100%;
+	height: 90vh;
+	padding-top: 30px;
+	color: white;
+	font-size: 250px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: right;
+
+}
+
+.col-2{
+    width: 32%;
+    float: left;
+}
+.two-columns {
+    margin: auto;
+    width: 90%;
+    text-align: center;
+}
+.two-columns .col-2 {
+    width: 50%; 
+    height: 600px;
+}
+.col-2 img{
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 50%;
+}
+
 h3{
 	font-size: 30px;
 	font-family: 'Playfair Display', serif;
+	color: #4A4A4A;
+}
+
+h2{
+	font-size: 35px;
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+	color: #4A4A4A;
+}
+.foot{
+	background-color: #C2A59B,
+	background-size:80%;
+	padding-top: 60px;
+    width: 100%;
+
+}
+#footerlogo{
+	text-align: center;
 }
