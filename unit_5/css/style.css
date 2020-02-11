@@ -128,6 +128,55 @@ h2{
     width: 100%;
 
 }
+
 #footerlogo{
 	text-align: center;
+}
+
+#header{
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#nav{
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#one{
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#two{
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#three{
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#four{
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#five{
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#footer{
+	background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
 }
