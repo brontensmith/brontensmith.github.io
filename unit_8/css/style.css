@@ -1,5 +1,20 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display&display=swap');
 
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+ol,
+li,
+p,{
+  margin: 0;
+  padding: 0;
+}
+
 h1{
 	text-align: center;
 	font-size: 50px;
@@ -232,6 +247,7 @@ h2{
     /*background-color: #FFB7CF;*/
     /*border: 1px black solid;*/
     padding: 20px;
+
 }
 
 #left {
@@ -293,9 +309,9 @@ h4{
 }
 
 #footer{
-	background-color: #C2A59B;
+	/*background-color: #C2A59B;*/
     /*border: 1px black solid;*/
-    padding: 20px;
+   /* padding: 20px;*/
 }
 
 #footerlogo{
@@ -346,7 +362,7 @@ h4{
 .fa {
   padding: 15px;
   font-size: 25px;
-  width: 25px;
+  width: 20px;
   text-align: center;
   text-decoration: none;
   border-radius: 50%;
