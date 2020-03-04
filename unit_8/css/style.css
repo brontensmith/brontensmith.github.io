@@ -1,0 +1,393 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display&display=swap');
+
+h1{
+	text-align: center;
+	font-size: 50px;
+	color: #4A4A4A;
+	font-family: 'Playfair Display', serif;
+}
+
+#slogan{
+	font-size: 35px;
+	text-align: left;
+	/*font-style: italic;*/
+	color: #4A4A4A;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h6{
+	font-size: 65px;
+	text-align: right;
+	color: white;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+nav, #nav-menu{
+	font-family: 'Playfair Display', serif;
+	font-size: 20px;
+	text-align: center;
+	color: #4A4A4A;
+}
+
+a{
+	background-color: 
+	text-align: right;
+	color:#4A4A4A;
+	text-decoration: none;
+	width: 200px;
+	padding: 10px;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+.introduction{
+	text-align: right;
+	/*color:white;*/
+	font-size: 40px;
+	background-image: url(../images/cactus.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 100%;
+	height: 100vh;
+	padding: 20px;
+}
+
+#mission{
+	text-align:left;
+	font-size: 25px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	/*color: #4A4A4A;*/
+}
+
+#aside_columns{
+    /*background-color: #FFB7CF;*/
+    /*border: 1px black solid;*/
+/*    padding: 20px;
+    height: 700px;*/
+    padding: 20px;
+}
+
+#aside-left {
+    background-image: url(../images/pillows.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    /*background-position:left;*/
+    background-color: #E582A2;
+    /*border: 1px black solid;*/
+    padding: 20px;
+    float: left;
+    width: 47%;
+    height: 500px;
+    color: white;
+	font-size: 100px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: left;
+}
+
+#aside-right {
+    background-size: 100%;
+    /*background-position: right;*/
+    background-color: #C2A59B;
+    /*border: 1px black solid;*/
+    padding: 20px;
+    float: left;
+    width: 37%;
+    height: 500px;
+    color: #4A4A4A;
+	font-size: 100px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: left;
+}
+
+img{
+	border-radius: 4px;
+ 	padding: 5px;
+ 	width: 1600px;
+}
+hr{
+	width: 1000px;
+}
+.col-3{
+    width: 32%;
+    float: left;
+}
+.column-three {
+    margin: auto;
+    width: 90%;
+    text-align: center;
+}
+.column-three .col-3 img {
+    width: 100%; 
+    height: 500px;
+}
+.column-three .col-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 31%;
+}
+.couch{
+	margin:auto;
+	padding-top: 50px;
+	width: 50%;
+	text-align: center;
+
+}
+
+.sale{
+	
+    background-image: url(../images/book.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 100%;
+	height: 550px;
+	/*padding-top: 30px;*/
+	padding: 20px;
+	color:#C2154C;
+	font-size: 180px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: right;
+
+}
+
+
+.col-2{
+    width: 32%;
+    float: left;
+}
+.two-columns {
+    margin: auto;
+    width: 90%;
+    text-align: center;
+}
+.two-columns .col-2 {
+    width: 50%; 
+    height: 600px;
+}
+.col-2 img{
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 50%;
+}
+
+h3{
+	font-size: 25px;
+	font-family: 'Playfair Display', serif;
+	color: #4A4A4A;
+}
+
+h2{
+	font-size: 40px;
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+	color: #4A4A4A;
+}
+
+#header{
+	/*background-color: #FFED74;
+    border: 1px black solid;*/
+    padding: 20px;
+}
+
+#nav{
+	/*background-color: #E8C66A;*/
+    /*border: 1px black solid;*/
+    padding: 20px;
+    color: #4A4A4A;
+}
+
+#one{
+	/*background-color: #FFE2B8;*/
+   /* border: 1px black solid;*/
+    padding: 20px;
+}
+
+#two{
+	/*background-color: #FFE2B8;*/
+    /*border: 1px black solid;*/
+    padding: 20px;
+}
+
+#three{
+	background-color:none;
+    /*border: 1px black solid;*/
+    padding: 20px;
+    height: 700px;
+}
+
+#four{
+	background-color:none;
+   /* border: 1px black solid;*/
+    padding: 20px;
+}
+
+/*#five{
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}*/
+
+#two_column {
+    /*background-color: #FFB7CF;*/
+    /*border: 1px black solid;*/
+    padding: 20px;
+}
+
+#left {
+    background-image: url(../images/lighting.jpg);
+    background-size: 100%;
+    background-position: right;
+    background-repeat: no-repeat;
+    /*background-color: #E582A2;*/
+    /*border: 1px black solid;*/
+    padding: 20px;
+    float: left;
+    width: 47%;
+    height: 750px;
+    color: white;
+	font-size: 80px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: left;
+}
+
+#right {
+    background-image: url(../images/WhiteCeramic.jpg);
+    background-size: 100%;
+    background-position: right;
+    background-repeat: no-repeat;
+    /*background-color: #E55B88;*/
+    /*border: 1px black solid;*/
+    padding: 20px;
+    float: right;   
+    width: 47%;
+    height: 750px;
+    color: white;
+	font-size: 80px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: left;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.foot{
+	background-color: #C2A59B,
+	background-size:80%;
+	padding-top: 60px;
+    width: 100%;
+    height: 600px;
+
+}
+
+h4{
+
+	font-size: 23px;
+	font-weight: bold;
+}
+
+#footer{
+	background-color: #C2A59B;
+    /*border: 1px black solid;*/
+    padding: 20px;
+}
+
+#footerlogo{
+	text-align: center;
+	color: #4A4A4A;
+}
+
+#footer-left{
+	padding: 20px;
+	width: 20%;
+	float: left;
+	font-size: 20px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color:#4A4A4A;
+	line-height: 0.6;
+}
+
+#footer-middle{
+	padding: 20px;
+	width: 20%;
+	float: left;
+	font-size: 20px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: #4A4A4A;
+	line-height: 0.6;
+}
+
+#footer-right{
+	padding: 20px;
+	width: 20%;
+	float: left;
+	font-size: 20px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: #4A4A4A;
+	line-height: 0.6;
+}
+
+#social-media{
+	padding: 20px;
+	width: 20%;
+	float: left;
+	font-size: 20px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: #4A4A4A;
+}
+
+/* Style all font awesome icons */
+.fa {
+  padding: 15px;
+  font-size: 25px;
+  width: 25px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+/* Instagram */
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+/* Pinterest */
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+  }
+
+/*#contact{
+	text-align: left;
+	font-size: 25px;
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
+	padding: 20px;
+	width: 20%;
+}*/
