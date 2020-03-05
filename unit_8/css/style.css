@@ -23,7 +23,7 @@ h1{
 }
 
 h6{
-	font-size: 1.8em;
+	font-size: 2em;
 	text-align: right;
 	color: white;
 	font-family: 'Open Sans Condensed', sans-serif;
@@ -43,6 +43,7 @@ a{
 	text-decoration: none;
 	width: 20%;
 	padding: 10px;
+	font-size: 1.9em;
 }
 
 a:hover {
